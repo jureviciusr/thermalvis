@@ -1,4 +1,4 @@
-#include "../../include/flow/flow_config.hpp"
+#include "flow/flow_config.hpp"
 
 flowSharedData::flowSharedData() : 
 	maxFeatures(300), 

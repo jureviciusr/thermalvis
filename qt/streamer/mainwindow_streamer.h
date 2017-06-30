@@ -4,7 +4,7 @@
 #include <QMainWindow>
 
 #ifdef _INCLUDE_INTERFACING_
-#include "../../include/streamer/streamer_config.hpp"
+#include "../../include/thermalvis/streamer/streamer_config.hpp"
 #endif
 namespace Ui {
 class MainWindow_streamer;

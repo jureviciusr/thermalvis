@@ -4,7 +4,7 @@
 #include <QMainWindow>
 
 #ifdef _INCLUDE_INTERFACING_
-#include "../../include/calibrator/calibrator_config.hpp"
+#include "../../include/thermalvis/calibrator/calibrator_config.hpp"
 #endif
 namespace Ui {
 class MainWindow_calibrator;

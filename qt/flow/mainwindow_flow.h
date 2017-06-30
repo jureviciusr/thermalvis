@@ -4,7 +4,7 @@
 #include <QMainWindow>
 
 #ifdef _INCLUDE_INTERFACING_
-#include "../../include/flow/flow_config.hpp"
+#include "../../include/thermalvis/flow/flow_config.hpp"
 #endif
 namespace Ui {
 class MainWindow_flow;

@@ -4,7 +4,7 @@
 #include <QMainWindow>
 
 #ifdef _INCLUDE_INTERFACING_
-#include "../../include/slam/slam_config.hpp"
+#include "../../include/thermalvis/slam/slam_config.hpp"
 #endif
 
 namespace Ui {

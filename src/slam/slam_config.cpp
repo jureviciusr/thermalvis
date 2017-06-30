@@ -1,4 +1,4 @@
-#include "../../include/slam/slam_config.hpp"
+#include "slam/slam_config.hpp"
 
 slamSharedData::slamSharedData() :
 	maxInitializationFrames(MAX_INITIALIZATION_FRAMES),

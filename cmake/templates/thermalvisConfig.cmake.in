@@ -1,0 +1,17 @@
+#######################################################
+# thermalvis source dir
+set( thermalvis_SOURCE_DIR "@CMAKE_CURRENT_SOURCE_DIR@")
+
+#######################################################
+# thermalvis build dir
+set( thermalvis_DIR "@CMAKE_CURRENT_BINARY_DIR@")
+
+#######################################################
+set( thermalvis_INCLUDE_DIR  "@thermalvis_INCLUDE_DIR@" )
+set( thermalvis_INCLUDE_DIRS "@thermalvis_INCLUDE_DIR@" )
+
+set( thermalvis_LIBRARIES    "@thermalvis_LIBRARIES@" )
+set( thermalvis_LIBRARY      "@thermalvis_LIBRARIES@" )
+
+set( thermalvis_LIBRARY_DIR  "@thermalvis_LIBRARY_DIR@" )
+set( thermalvis_LIBRARY_DIRS "@thermalvis_LIBRARY_DIR@" )

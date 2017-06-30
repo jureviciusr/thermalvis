@@ -6,6 +6,7 @@
 #define STREAMER_CONFIG_H
 
 #include "streamer_defines.hpp"
+#include "opencv2/videoio.hpp"
 
 /// \brief		Parameters that are shared between both real-time update configuration, and program launch configuration for streamer
 struct streamerSharedData {
